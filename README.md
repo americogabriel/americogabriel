@@ -30,9 +30,12 @@
 
 | Título | Para quem | Sobre o projeto | Linguagem |
 | :--- | :--- | :--- | :--- |
-| **API Rest de Vendas** | Projeto Acadêmico | API para gerenciamento de estoque, usuários e pedidos em tempo real. | Python / Flask |
-| **Dashboard de Análise de Dados** | Cliente Freelancer | Painel interativo para automação de relatórios financeiros e planilhas. | Python / Excel |
-| **Gerenciador de Tarefas** | Estudo Pessoal | Sistema de CRUD completo com autenticação de usuários e banco de dados. | Java / Spring Boot |
+| Carcara | Corpo de Bombeiros Militar da Paraíba(CBMPB) | Aplicação Web para exibir exigências de projetos com base em suas categorias e riscos de incêndio presentes nas normas de incêndio e emergência do CBMPB, usando conceitos de Machine Learning | Python / Flask |
+| Bravo Compras | Corpo de Bombeiros Militar da Paraíba(CBMPB) | Sistema Web de almoxarifado para uso de militares do Corpo de Bombeiros Militar da Paraíba | Python / Django |
+| Sistema automático copa 2026 | Franquia da Panini | Leitura de clientes e número de telefone vindo de uma tabela Excel(CSV) para envio de mensagens automáticas usando as bibliotecas Pandas e Pywhatkit | Python / Excel |
+| Site Mañdesports | Loja de Surf Mañdesports | Aplicação Web para exibir itens disponíveis e com carrinho de compras vinculado ao Whatsapp da empresa | Python / Django |
+| Jogos Empresariais | UNIPÊ | Sistema Web que simula um jogo empresarial para a a cadeira de jogos empresariais do curso de graduação de Administração | Python / Django | 
+
 
 ---
 
